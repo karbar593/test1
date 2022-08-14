@@ -1,4 +1,6 @@
 # test1
 just for test!
 
-this remote does not work !!!!!!!!!!!!!!
+NOTICE:
+FOLDER NAME ON THE LOCAL SYSTEM 'MUST' HAVE THE SAME NAME AS THE REPOSITORY NAME IN THE GITHUB THAT WE WANT TO USE PULL/PUSH FOR IT  :)
+    wheras pull/push donot workkkkkkk!!! 
